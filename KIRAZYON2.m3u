@@ -1,7 +1,7 @@
 #EXTINF:-1,A FAZENDA 14 SINAL 1 HD
-http://eye.syscdn.xyz:80/andersonalk/81988434948/619573
+plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://eye.syscdn.xyz:80/andersonalk/81988434948/619573
 #EXTINF:-1,A FAZENDA 14 SINAL 1 HD [ALT]
-http://eye.syscdn.xyz:80/andersonalk/81988434948/619265
+plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://eye.syscdn.xyz:80/andersonalk/81988434948/619265
 #EXTINF:-1,A FAZENDA 14 SINAL 2 HD
 http://eye.syscdn.xyz:80/andersonalk/81988434948/619584
 #EXTINF:-1,A FAZENDA 14 SINAL 3 HD
