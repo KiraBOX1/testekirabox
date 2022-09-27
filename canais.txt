@@ -1285,8 +1285,7 @@ http://cdn.liveboxtv.xyz:80/live/9462134865/1265874563/288684.m3u8
 http://cdn.liveboxtv.xyz:80/live/9462134865/1265874563/107816.m3u8
 #EXTINF:-1 type="stream" tvg-id="AMC FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AMC.png" group-title="CANAIS | FILMES E SÉRIES",AMC FHD (H265)
 http://cdn.liveboxtv.xyz:80/live/9462134865/1265874563/126645.m3u8
-#EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="https://imgur.com/usKdHP9.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://cdn.liveboxtv.xyz:80/live/9462134865/1265874563/107817.m3u8
+#EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="https://imgur.com/usKdHP9.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]TV PARA TODOS bY DWIGHT FARROKH[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.liveboxtv.xyz:80/live/9462134865/1265874563/107817.m3u8
 #EXTINF:-1 type="stream" tvg-id="AMC HD [ALT]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD [ALT]
 http://cdn.liveboxtv.xyz:80/live/9462134865/1265874563/617883.m3u8
 #EXTINF:-1 type="stream" tvg-id="AMC SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AMC.png" group-title="CANAIS | FILMES E SÉRIES",AMC SD
