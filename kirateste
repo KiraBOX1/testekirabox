@@ -1,30 +1,37 @@
- <channels>
- <channel>
- <name>[COLOR white][B]Lista SMARTERS[/B][/COLOR][COLOR cyan][B] ||| KIRA [/B][/COLOR][COLOR pink][B]BOX |||[/B][/COLOR]</name>
- <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
- <externallink>https://raw.githubusercontent.com/KiraBOX1/testekirabox/main/KIRASMARTERS.m3u</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
- <info>Listas iptv</info>
- </channel>
- </channels>
-  
-  <channels>
- <channel>
- <name>[COLOR white][B]Lista VDK[/B][/COLOR][COLOR cyan][B] ||| KIRA [/B][/COLOR][COLOR pink][B]BOX |||[/B][/COLOR]</name>
- <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
- <externallink>https://raw.githubusercontent.com/KiraBOX1/testekirabox/main/KIRAVDK.m3u</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
- <info>Listas iptv</info>
- </channel>
- </channels>
+<?xml version="1.0" encoding="utf-8"?>
+<layoutype>lista</layoutype>
  
- <channels>
- <channel>
- <name>[COLOR white][B]Lista ZYON[/B][/COLOR][COLOR cyan][B] ||| KIRA [/B][/COLOR][COLOR pink][B]BOX |||[/B][/COLOR]</name>
- <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
- <externallink>https://raw.githubusercontent.com/KiraBOX1/testekirabox/main/KIRAZYON2.m3u</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
- <info>Listas iptv</info>
- </channel>
- </channels>
-
+<canais>
+<canal>
+<name>[COLOR white][B]Bem Vindo [COLOR orange][B]- [COLOR yellow][B] Ao ADDON!![/B][/COLOR]</name>
+<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
+<fanart>https://imgur.com/EQqcrhj.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/wbfgFe9E</externallink>
+<info>[COLOR white][B]KIRA BOX??!![/B][/COLOR]</info>
+</canal>
+</canais>
+ 
+ 
+<canais>
+<canal>
+<name>[COLOR white][B]Canais ao VIVO .:[COLOR orange][B] [TV] [/B][/COLOR]</name>
+<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
+<fanart>https://imgur.com/EQqcrhj.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://github.com/KiraBOX1/testekirabox/blob/main/MENUKIRA.TXT</externallink>
+<info>[COLOR branco][B]KIRA BOX??!![/B][/COLOR]</info>
+</canal>
+</canais>
+ 
+<canais>
+<canal>
+<name>[COLOR white][B]Canais ao VIVO .:[COLOR orange][B] [ESPORTE] [/B][/COLOR]</name>
+<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
+<fanart>https://imgur.com/EQqcrhj.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://github.com/KiraBOX1/testekirabox/blob/main/esporteskira.txt</externallink>
+<info>[COLOR white][B]KIRA BOX??!![/B][/COLOR]</info>
+</canal>
+</canais>
+ 
