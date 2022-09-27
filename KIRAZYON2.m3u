@@ -1,3 +1,12 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV FHD" tvg-logo="https://www.vector-logo.net/logo_preview/eps/p/Playboy_TV.png" group-title="CANAIS | ADULTOS",PLAYBOY TV FHD
-http://eye.syscdn.xyz:80/andersonalk/81988434948/276704
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://imgur.com/Nl3KENM.jpeg" group-title="CANAIS | FILMES E SÃ‰RIES",[COLOR orange][B]LOODING ||[/B][/COLOR] A&E HD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/17575.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="https://imgur.com/Nl3KENM.jpeg" group-title="CANAIS | FILMES E SÃ‰RIES",[COLOR orange][B]LOODING ||[/B][/COLOR] A&E SD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/113098.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="CANAIS | FILMES E SÃ‰RIES",[COLOR orange][B]LOODING ||[/B][/COLOR] AMC HD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/17987.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="CANAIS | FILMES E SÃ‰RIES",[COLOR orange][B]LOODING ||[/B][/COLOR] AMC SD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/113101.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://imgur.com/gO2rMMT.jpeg" group-title="CANAIS I DOCUMENTARIOS ",[COLOR orange][B]LOODING ||[/B][/COLOR] Animal Planet HD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/408361.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://imgur.com/gO2rMMT.jpeg" group-title="CANAIS I DOCUMENTARIOS ",[COLOR orange][B]LOODING ||[/B][/COLOR] Animal Planet SD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/17584.m3u8
