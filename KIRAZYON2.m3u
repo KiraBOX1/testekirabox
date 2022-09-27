@@ -1,3 +1,8 @@
+#EXTM3U
+#EXTINF:-1,[COLOR red][B]offlineTV... ||[/B][/COLOR][COLOR pink][B] Caregando: 22/09 - 22:05[/B][/COLOR]
+offlineTV.com
+#EXTINF:-1,[COLOR red][B]offlineTV... ||[/B][/COLOR] [COLOR red][B] Todos os canais SEM TRAVAS 24hs||[/B][/COLOR][COLOR pink ][B] 37-9.91253261 zap[/B][/COLOR]
+offlineTV.com
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://imgur.com/Nl3KENM.jpeg" group-title="CANAIS | FILMES E SÃ‰RIES",[COLOR orange][B]LOODING ||[/B][/COLOR] A&E HD
 plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/17575.m3u8
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="https://imgur.com/Nl3KENM.jpeg" group-title="CANAIS | FILMES E SÃ‰RIES",[COLOR orange][B]LOODING ||[/B][/COLOR] A&E SD
