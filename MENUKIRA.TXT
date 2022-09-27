@@ -1,0 +1,40 @@
+<canal>
+<canais>
+<name>[COLOR white][B]KIRA BOX :[COLOR cyan][B] SERVIDOR 01 [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/naGCv8t.jpg</thumbnail>
+<fanart>https://images5.alphacoders.com/428/thumb-1920-428151.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/KiraBOX1/testekirabox/main/KIRASMARTERS.m3u</externallink>
+<info>Lista de canais Atualizada toda Manha </info>
+<genre>[COLOR white][B] LOODING...[/B][/COLOR]</genre>
+</canal>
+</canais>
+
+
+<canal>
+<canais>
+<name>[COLOR white][B]KI :[COLOR cyan][B] 02 [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/naGCv8t.jpg</thumbnail>
+<fanart>https://images5.alphacoders.com/428/thumb-1920-428151.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/KiraBOX1/testekirabox/main/KIRAVDK.m3u</externallink>
+<info>Lista de canais Atualizada toda Manha </info>
+<genre>[COLOR white][B] Pluto TV[/B][/COLOR]</genre>
+</canal>
+</canais>
+
+
+
+<canal>
+<canais>
+<name>[COLOR white][B]KIRA BOX :[COLOR cyan][B] 03 [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/naGCv8t.jpg</thumbnail>
+<fanart>https://images5.alphacoders.com/428/thumb-1920-428151.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/KiraBOX1/testekirabox/main/KIRAZYON2.m3u</externallink>
+<info>Lista de canais Atualizada toda Manha </info>
+<genre>[COLOR white][B] TV WEB / TV Brasileira |[COLOR yellow][B] Atualizado 27/08 23:02[/B][/COLOR]</genre>
+</canal>
+</canais>
+
+
