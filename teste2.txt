@@ -1,7 +1,7 @@
 #EXTM3U size="Big"
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS ZYON
 #EXTBG:https://i.imgur.com/JCcgEeo.png
-https://raw.githubusercontent.com/KiraBOX1/testekirabox/main/canais.txt
+https://raw.githubusercontent.com/KiraBOX1/testekirabox/main/canais.txt/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES ZYON
 #EXTBG:https://i.imgur.com/vnPmfhz.png
 http://Zyon.koffice.site/ssiptv/get/9462134865/1265874563/movie_categories/
