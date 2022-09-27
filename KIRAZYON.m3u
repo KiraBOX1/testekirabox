@@ -1,13 +1,23 @@
-#EXTM3U size="Big"
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS ZYON
-#EXTBG:https://i.imgur.com/JCcgEeo.png
-http://Zyon.koffice.site/ssiptv/get/9462134865/1265874563/list_lives/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES ZYON
-#EXTBG:https://i.imgur.com/vnPmfhz.png
-http://Zyon.koffice.site/ssiptv/get/9462134865/1265874563/movie_categories/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES ZYON
-#EXTBG:https://i.imgur.com/vJD9S1U.png
-http://Zyon.koffice.site/ssiptv/get/9462134865/1265874563/serie_categories/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",24 HORAS (EXCLUSIVOS)
-#EXTBG:https://i.imgur.com/5YX6SmJ.png
-http://Zyon.koffice.site/ssiptv/get/9462134865/1265874563/list_created_channels/
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV FHD" tvg-logo="https://www.vector-logo.net/logo_preview/eps/p/Playboy_TV.png" group-title="CANAIS | ADULTOS",PLAYBOY TV FHD
+http://eye.syscdn.xyz:80/9462134865/1265874563/276704
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="PLAYBOY TV HD" tvg-logo="https://www.vector-logo.net/logo_preview/eps/p/Playboy_TV.png" group-title="CANAIS | ADULTOS",PLAYBOY TV HD
+http://eye.syscdn.xyz:80/9462134865/1265874563/108188
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV SD" tvg-logo="https://www.vector-logo.net/logo_preview/eps/p/Playboy_TV.png" group-title="CANAIS | ADULTOS",PLAYBOY TV SD
+http://eye.syscdn.xyz:80/9462134865/1265874563/617710
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Sextreme.jpg" group-title="CANAIS | ADULTOS",SEXTREME SD
+http://eye.syscdn.xyz:80/9462134865/1265874563/617741
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="SEXY HOT FHD" tvg-logo="https://www.pngkit.com/png/detail/236-2368161_sexy-hot-logo-png.png" group-title="CANAIS | ADULTOS",SEXY HOT FHD
+http://eye.syscdn.xyz:80/9462134865/1265874563/108263
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="SEXY HOT HD" tvg-logo="https://www.pngkit.com/png/detail/236-2368161_sexy-hot-logo-png.png" group-title="CANAIS | ADULTOS",SEXY HOT HD
+http://eye.syscdn.xyz:80/9462134865/1265874563/276395
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT SD" tvg-logo="https://lh3.googleusercontent.com/proxy/OubCgk80HyM1yCPF0Gv2RJYz5dvTjsBP4vPWUhr5cRcGcmUwI7TDG0g_nkU_W_3mtjZRxGxc635vpWNvA5udA_1ud9zWw3eOuF0" group-title="CANAIS | ADULTOS",SEXY HOT SD
+http://eye.syscdn.xyz:80/9462134865/1265874563/617743
+#EXTINF:-1 tvg-id="" tvg-name="SEXY PRIVE FHD" tvg-logo="https://pbs.twimg.com/profile_images/1186675797408518146/aRhicdPb.jpg" group-title="CANAIS | ADULTOS",SEXY PRIVE FHD
+http://eye.syscdn.xyz:80/9462134865/1265874563/108261
+#EXTINF:-1 tvg-id="" tvg-name="SEXY PRIVE HD" tvg-logo="https://pbs.twimg.com/profile_images/1186675797408518146/aRhicdPb.jpg" group-title="CANAIS | ADULTOS",SEXY PRIVE HD
+http://eye.syscdn.xyz:80/9462134865/1265874563/108262
+#EXTINF:-1 tvg-id="" tvg-name="24h BRAD MONTANA +18" tvg-logo="https://www.cnnamador.com/contents/content_sources/103/s2_bradmontana-417x235.png" group-title="CANAIS | ADULTOS",24h BRAD MONTANA +18
+http://eye.syscdn.xyz:80/9462134865/1265874563/615543
+#EXTINF:-1 tvg-id="" tvg-name="24h BRASILEIRINHAS +18" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/Brasileirinhas.png" group-title="CANAIS | ADULTOS",24h BRASILEIRINHAS +18
+http://eye.syscdn.xyz:80/9462134865/1265874563/615516
