@@ -1,6 +1,6 @@
-<channels>
+ <channels>
  <channel>
- <name>[COLOR white][B]SERVIDOR TESTE[/B][/COLOR][COLOR red][B] ||| KIRA [/B][/COLOR][COLOR white][B]BOX |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]ESPORTES[/B][/COLOR][COLOR red][B] ||| KIRA [/B][/COLOR][COLOR white][B]BOX |||[/B][/COLOR]</name>
  <thumbnail>https://github.com/KiraBOX1/testekirabox/blob/main/kira.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/KiraBOX1/testekirabox/main/esporteskira.txt</externallink>
  <fanart>https://github.com/KiraBOX1/testekirabox/blob/main/kira.jpg</fanart>
