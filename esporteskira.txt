@@ -1,3 +1,4 @@
+﻿#EXTM3U
 #EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | Esportes",BAND Sports FHD
 #EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD [Alt]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | Esportes",BAND Sports FHD [Alt]
 #EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD [H265]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | Esportes",BAND Sports FHD [H265]
