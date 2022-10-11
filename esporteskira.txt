@@ -1,201 +1,49 @@
-
-#EXTM3U
-#EXTINF:-1,[COLOR red][B]KIRA BOX... ||[/B][/COLOR] [COLOR red][B] Todos os canais SEM TRAVAS 24hs||[/B][/COLOR][COLOR pink ][B] 37-9.91253261 zap[/B][/COLOR]
-KIRA BOX.com
-
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",[COLOR orange][B]LOODING ||[/B][/COLOR] Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37550.m3u8
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",[COLOR orange][B]LOODING ||[/B][/COLOR] Premiere 2 FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37551.m3u8
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",[COLOR orange][B]LOODING ||[/B][/COLOR] Premiere 3 FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37552.m3u8
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",[COLOR orange][B]LOODING ||[/B][/COLOR] Premiere 4 FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37553.m3u8
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",[COLOR orange][B]LOODING ||[/B][/COLOR] Premiere 5 FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37554.m3u8
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",[COLOR orange][B]LOODING ||[/B][/COLOR] Premiere 6 FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37555.m3u8
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="CANAIS | PREMIERE",[COLOR orange][B]LOODING ||[/B][/COLOR] Premiere 7 FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37556.m3u8
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://imgur.com/OlDFDhV.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Combate FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/38277.m3u8
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://imgur.com/OlDFDhV.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Combate HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/38276.m3u8
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="https://imgur.com/OlDFDhV.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Combate SD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/113109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://imgur.com/TRTgvPq.jpeg" group-title="CANAIS | VARIEDADES",[COLOR orange][B]LOODING ||[/B][/COLOR] Comedy Central HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/17906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 FHD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Conmebol TV 1 FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/18198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Conmebol TV 1 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/113233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 FHD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Conmebol TV 2 FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/18201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 HD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Conmebol TV 2 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/113234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 FHD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Conmebol TV 3 FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/18204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 HD" tvg-logo="https://imgur.com/IpqeLND.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Conmebol TV 3 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/113235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://imgur.com/BI2m56y.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] DAZN 1 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/18209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://imgur.com/BI2m56y.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] DAZN 2 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/18210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://imgur.com/BI2m56y.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] DAZN 3 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/18211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://imgur.com/BI2m56y.jpeg" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] DAZN 4 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/113196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 01" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA DO NORDESTE 01
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/452769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 02" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA DO NORDESTE 02
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/452770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 03" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA DO NORDESTE 03
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/452771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 01 HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2022/01/untitled-design1-1-312x208.jpg" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA CATARINENSE 01 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/452772.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 02 HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2022/01/untitled-design1-1-312x208.jpg" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA CATARINENSE 02 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/452773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 03 HD" tvg-logo="http://srv.mypanel.life:8080/get.php?username=blaze&password=TtGctyh99786&type=m3u_plus&output=ts" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA CATARINENSE 03 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/452774.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA HD 01" tvg-logo="https://explosaotricolor.com.br/wp-content/uploads/2022/01/Carioca-678x381.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] CAMPEONATO CARIOCA HD 01
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/452775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA HD 02" tvg-logo="https://explosaotricolor.com.br/wp-content/uploads/2022/01/Carioca-678x381.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] CAMPEONATO CARIOCA HD 02
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/452776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA HD 03" tvg-logo="https://explosaotricolor.com.br/wp-content/uploads/2022/01/Carioca-678x381.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] CAMPEONATO CARIOCA HD 03
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/452777.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="APP EVENTOS 01" tvg-logo="https://s.calendarr.com/upload/datas/di/an/dia-nacional-do-futebol_c.jpg" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] APP EVENTOS 01
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/454901.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Prime Video" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] Prime Video
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/458671.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 2" tvg-logo="https://i.imgur.com/DN8CbTP.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA DO BRASIL 2
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/661209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 04" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA DO NORDESTE 04
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/663347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 05" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA DO NORDESTE 05
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/663348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 06" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA DO NORDESTE 06
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/663349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 07" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA DO NORDESTE 07
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/663350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 08" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title="CANAIS | ESPORTES ESPECIAIS",[COLOR orange][B]LOODING ||[/B][/COLOR] COPA DO NORDESTE 08
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/663351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD H265" tvg-logo="https://i.imgur.com/RM9sLUs.png" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] SporTV FHD H265
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/663353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD" tvg-logo="https://i.imgur.com/RM9sLUs.png" group-title="CANAIS | ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] SporTV FHD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/663355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] HBO MAX 01 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] HBO MAX 02 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922584.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] HBO MAX 03 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] HBO MAX 04 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] HBO MAX 05 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] HBO MAX 06 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] DAZN 1 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] DAZN 2 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] DAZN 3 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] DAZN 04 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 01 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Eleven Sports 01 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 02 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Eleven Sports 02 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 03 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Eleven Sports 03 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922595.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 04 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Eleven Sports 04 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922596.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 05 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Eleven Sports 05 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 06 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Eleven Sports 06 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 07 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Eleven Sports 07 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 08 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Eleven Sports 08 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 09 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Eleven Sports 09 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] Eleven Sports 10 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] ESTADIO TNT SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] ESTADIO TNT SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] ESTADIO TNT SPORTS 3 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] ESTADIO TNT SPORTS 4 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 5 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] ESTADIO TNT SPORTS 5 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] CONMEBOL TV 1 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] CONMEBOL TV 2 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] CONMEBOL TV 3 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] CONMEBOL TV 4 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] HBO MAX 03 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] HBO MAX 04 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] STAR+ 1
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] STAR+ 2
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] STAR+ 3
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] STAR+ 4
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] STAR+ 5
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] STAR+ 6
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃƒO SERIE C (JOGO 3)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] BRASILEIRÃƒO SERIE C (JOGO 3)
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃƒO SERIE C (JOGO 2)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] BRASILEIRÃƒO SERIE C (JOGO 2)
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃƒO SERIE C (JOGO 1)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] BRASILEIRÃƒO SERIE C (JOGO 1)
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 4" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] AMAZON PRIME JOGO 4
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] AMAZON PRIME JOGO 3
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 2" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] AMAZON PRIME JOGO 2
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] AMAZON PRIME JOGO 1
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] FORMULA 1 TV
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_antigo_ligafutsal-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] LIGA FUTSAL HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922628.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 01 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] NBA LEAGUE PASS 01 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922629.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 02 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] NBA LEAGUE PASS 02 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 03 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] NBA LEAGUE PASS 03 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922631.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 04 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] NBA LEAGUE PASS 04 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922632.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 05 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] NBA LEAGUE PASS 05 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922633.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 06 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] NBA LEAGUE PASS 06 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922634.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 07 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] NBA LEAGUE PASS 07 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922635.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 08 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] NBA LEAGUE PASS 08 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922636.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 9 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] NBA LEAGUE PASS 9 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 10 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] NBA LEAGUE PASS 10 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922638.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 11 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] NBA LEAGUE PASS 11 HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FURACÃƒO TV HD" tvg-logo="https://theme.zdassets.com/theme_assets/11249333/709015f0bed202642d4f719782ccfe4f4f39718f.png" group-title="CANAIS | PPV ESPORTES",[COLOR orange][B]LOODING ||[/B][/COLOR] FURACÃƒO TV HD
-plugin://plugin.video.f4mTester/?name=KIRA BOX&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/922640.m3u8
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | Esportes",BAND Sports FHD
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD [Alt]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | Esportes",BAND Sports FHD [Alt]
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD [H265]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | Esportes",BAND Sports FHD [H265]
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports HD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | Esportes",BAND Sports HD
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports HD [Alt]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | Esportes",BAND Sports HD [Alt]
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports SD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | Esportes",BAND Sports SD
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate FHD
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate FHD [Alt]
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [H265]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate FHD [H265]
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate HD
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate HD [Alt]
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate SD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate SD
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol TV 1 FHD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 1 FHD
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol TV 1 FHD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 1 FHD [Alt]
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol TV 1 HD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 1 HD
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol TV 1 HD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 1 HD [Alt]
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol TV 1 SD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 1 SD
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 FHD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 2 FHD
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 FHD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 2 FHD [Alt]
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 HD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 2 HD
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 HD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 2 HD [Alt]
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 SD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 2 SD
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 3 FHD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 3 FHD
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 3 FHD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 3 FHD [Alt]
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 3 HD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 3 HD
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 3 HD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 3 HD [Alt]
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 3 SD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 3 SD
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 FHD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 4 FHD
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 FHD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 4 FHD [Alt]
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 HD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 4 HD
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 HD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 4 HD [Alt]
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 SD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="Canais | Esportes PPV",Conmebol TV 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD" tvg-logo="https://i.imgur.com/ABUmajP.png" group-title="Canais | Esportes PPV",DAZN 01 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD" tvg-logo="https://i.imgur.com/ABUmajP.png" group-title="Canais | Esportes PPV",DAZN 02 HD
+#EXTINF:-1 tvg-id="" tvg-name="Furacão Brasileirão [Casimito]" tvg-logo="https://i.imgur.com/LlWKncK.png" group-title="Canais | Esportes PPV",Furacão Brasileirão [Casimito]
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="Canais | Esportes",OFF FHD
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD [Alt]" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="Canais | Esportes",OFF FHD [Alt]
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD [H265]" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="Canais | Esportes",OFF FHD [H265]
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="Canais | Esportes",OFF HD
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD [Alt]" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="Canais | Esportes",OFF HD [Alt]
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="Canais | Esportes",OFF SD
+#EXTINF:-1 tvg-id="bbb22" tvg-name="Prime Esportes 1 FHD" tvg-logo="https://i.imgur.com/LcsbA2X.png" group-title="Canais | Esportes PPV",Prime Esportes 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Prime Esportes 1 HD" tvg-logo="https://i.imgur.com/LcsbA2X.png" group-title="Canais | Esportes PPV",Prime Esportes 1 HD
+#EXTINF:-1 tvg-id="bbb22" tvg-name="Prime Esportes 1 SD" tvg-logo="https://i.imgur.com/LcsbA2X.png" group-title="Canais | Esportes PPV",Prime Esportes 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="Prime Esportes 2 HD" tvg-logo="https://i.imgur.com/LcsbA2X.png" group-title="Canais | Esportes PPV",Prime Esportes 2 HD
+#EXTINF:-1 tvg-id="bbb22" tvg-name="Prime Esportes 3 HD" tvg-logo="https://i.imgur.com/LcsbA2X.png" group-title="Canais | Esportes PPV",Prime Esportes 3 HD
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="TV NSports 1 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title="Canais | Esportes PPV",TV NSports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 2 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title="Canais | Esportes PPV",TV NSports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Hall vs Silva Card Preliminar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Hall_vs._Silva.jpg" group-title="Esportes | Lutas/Futebol",UFC Fight Hall vs Silva Card Preliminar
