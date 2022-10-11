@@ -1,11 +1,9 @@
-<canal>
-<canais>
-<name>[COLOR white][B]KIRA BOX :[COLOR cyan][B] SERVIDOR 01 [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/naGCv8t.jpg</thumbnail>
-<fanart>https://images5.alphacoders.com/428/thumb-1920-428151.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/KiraBOX1/testekirabox/main/esporteskira.txt</externallink>
-<info>Lista de canais Atualizada toda Manha </info>
-<genre>[COLOR white][B] LOODING...[/B][/COLOR]</genre>
-</canal>
-</canais>
+<channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR TESTE[/B][/COLOR][COLOR red][B] ||| KIRA [/B][/COLOR][COLOR white][B]BOX |||[/B][/COLOR]</name>
+ <thumbnail>https://github.com/KiraBOX1/testekirabox/blob/main/kira.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/KiraBOX1/testekirabox/main/esporteskira.txt</externallink>
+ <fanart>https://github.com/KiraBOX1/testekirabox/blob/main/kira.jpg</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
